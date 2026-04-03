@@ -47,4 +47,4 @@ import_file = "allow_list.txt"
 
 ## 🔗 Certificate
 
-[Google Cybersecurity Professional Certificate — Coursera](https://www.credly.com/badges/5f187cb5-6e6a-43c3-b06d-81e05123786f/public_url)
+[Google Cybersecurity Professional Certificate — Coursera](https://www.coursera.org/account/accomplishments/specialization/GAP2QE1Q1ETY?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n))
