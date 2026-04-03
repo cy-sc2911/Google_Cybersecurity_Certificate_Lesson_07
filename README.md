@@ -47,4 +47,4 @@ import_file = "allow_list.txt"
 
 ## 🔗 Certificate
 
-[Google Cybersecurity Professional Certificate — Coursera](https://www.coursera.org/account/accomplishments/specialization/GAP2QE1Q1ETY?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n))
+[Google Cybersecurity Professional Certificate — Coursera](https://www.coursera.org/account/accomplishments/specialization/GAP2QE1Q1ETY?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n)
